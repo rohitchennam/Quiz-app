@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is Java?",
+    "options": ["Language", "OS", "Browser", "IDE"],
+    "answer": 0
+  },
+  {
+    "question": "Which is OOP concept?",
+    "options": ["Compiler", "Class", "Loop", "Syntax"],
+    "answer": 1
+  },
+  {
+    "question": "Which is not a data type?",
+    "options": ["int", "float", "String", "real"],
+    "answer": 3
+  }
+]
